@@ -4,8 +4,8 @@ Bu, basit bir oto kiralama sistemi uygulamasıdır. Kullanıcılar araçları si
 
 ## Nasıl Kullanılır
 
-1. `main.py` dosyasını çalıştırarak programı başlatın.
-2. Aracınızı sisteme eklemek için `OtoKiralamaSistemi` sınıfının `arac_ekle()` yöntemini kullanın. Örnek kod: 
+1. main.py dosyasını çalıştırarak programı başlatın.
+2. Aracınızı sisteme eklemek için OtoKiralamaSistemi sınıfının arac_ekle() yöntemini kullanın. Örnek kod: 
 
    ```python
    oto_kiralama_sistemi = OtoKiralamaSistemi()
